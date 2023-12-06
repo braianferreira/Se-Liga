@@ -1,0 +1,10 @@
+.corpo{
+    background-color: aqua;
+    text-align: center;
+    color: black;
+    border: 2cm;
+    border-color: blue;
+    border-style: double;
+    border-radius: 15px;
+}
+
