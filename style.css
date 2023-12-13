@@ -17,13 +17,13 @@ li{font-size: 25px;
     }
    
     a{
-        font-size: 30 px;
+        font-size: 35 px;
         color: rgb(0, 0, 0);
         
         }
 
         a:hover{
-            font-size: 35 px;
+            font-size: 40 px;
             color: rgb(0, 255, 0);
             
             }
