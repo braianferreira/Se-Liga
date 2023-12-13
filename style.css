@@ -14,5 +14,16 @@ color: orangered;
 }
 li{font-size: 25px;
     color: rgb(255, 0, 128);
-    
     }
+   
+    a{
+        font-size: 25 px;
+        color: chartreuse;
+        
+        }
+
+        a{
+            font-size: 30 px;
+            color: chartreuse;
+            
+            }
