@@ -18,12 +18,12 @@ li{font-size: 25px;
    
     a{
         font-size: 25 px;
-        color: chartreuse;
+        color: rgb(128, 255, 0);
         
         }
 
         a:hover{
             font-size: 30 px;
-            color: chartreuse;
+            color: rgb(66, 62, 62);
             
             }
